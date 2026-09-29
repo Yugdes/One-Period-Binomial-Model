@@ -1,5 +1,7 @@
 # One-Period Binomial Model
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.streamlit.app)
+
 This project implements a **One-Period Binomial Model** for pricing financial options. It includes an interactive web application built with Streamlit and a Jupyter Notebook for detailed analysis. The project demonstrates core quantitative finance concepts, such as option pricing, real-time data fetching, and trading signals based on model vs. market price comparisons.
 
 This was developed as a group project for the course ES418 (Financial Engineering/Mathematics).
